@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Macheteros
+- 👋 Hi, I am Martins Orubu
 - 👀 I’m interested in HTML, CSS and Javascript.
 - 🌱 I’m currently learning HTML
 - 💞️ I’m looking to collaborate on Javascript
